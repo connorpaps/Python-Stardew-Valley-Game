@@ -1,4 +1,4 @@
-# Python Stardew Valley Look-a-like Farming Game
+# Sproud Farms - A Stardew Valley look-alike built in Python.
 
 A 2D farming simulator game based on the popular game Stardew Valley. Chop trees, gather fruits, plant crops, tend to your fields and trade with a merchant to sell the food you grow. 
 
