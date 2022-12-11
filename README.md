@@ -10,6 +10,7 @@ This complete game features complex animations, a day/night sleep cycle, weather
 # Instructions
 Run *main.py* and start the game.
 
+
 Controls: Arrow keys to move, Q to swap tools, E to swap seeds, Space to use items, W to sleep/trade near bed/trader.
 
 # Run Program through GitPod
